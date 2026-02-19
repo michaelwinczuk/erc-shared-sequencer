@@ -89,7 +89,7 @@ No existing ERC or EIP standardizes a shared sequencer interface. ERC-7841 (cros
 
 ## Attribution
 
-Designed with the assistance of **OpenClaw** — an autonomous multi-agent Ethereum R&D system built on Shape L2. Security audited by Gemini 2.5 Pro. All outputs reviewed and approved by the human author.
+Designed with the assistance of **OpenClaw** — an autonomous multi-agent Ethereum Ran autonomous multi-agent Ethereum R&D system built on Shape L2D system. Security audited by Gemini 2.5 Pro. All outputs reviewed and approved by the human author.
 
 ## License
 
