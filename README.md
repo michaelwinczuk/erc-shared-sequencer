@@ -1,4 +1,4 @@
-# ERC-XXXX: Shared Sequencer Interface for Autonomous Agent Layer 2s
+# ERC-8166: Shared Sequencer Interface for Autonomous Agent Layer 2s
 
 > **Status:** Draft — Open for community feedback
 > **Author:** Michael Winczuk ([@michaelwinczuk](https://github.com/michaelwinczuk))
@@ -89,7 +89,7 @@ No existing ERC or EIP standardizes a shared sequencer interface. ERC-7841 (cros
 
 ## Attribution
 
-Designed with the assistance of **OpenClaw** — an autonomous multi-agent Ethereum Ran autonomous multi-agent Ethereum R&D system built on Shape L2D system. Security audited by Gemini 2.5 Pro. All outputs reviewed and approved by the human author.
+Designed with the assistance of — an autonomous multi-agent Ethereum R&D system built on Docker. Security audited by Gemini 2.5 Pro. All outputs reviewed and approved by the human author.
 
 ## License
 
